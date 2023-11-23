@@ -1,0 +1,22 @@
+<HumanDevelopmentIndexAndComponents>
+    <Countries>
+        <Country>Switzerland</Country>
+        <HDI>
+            <HDI_Rank>1</HDI_Rank>
+            <HUMAN_DEVELOPMENT>VERY HIGH </HUMAN_DEVELOPMENT>
+            <Human_Development_Index>0.962</Human_Development_Index>
+            <HDI_rank_1>3</HDI_rank_1>
+        </HDI>
+        <Medical>
+            <Life_expectancy_at_birth>84.0</Life_expectancy_at_birth>   
+        </Medical>
+        <Education>
+            <Expected_years_of_schooling>16.5</Expected_years_of_schooling>
+            <Mean_years_of_schooling>13.9</Mean_years_of_schooling>
+        </Education>
+        <Economy>
+            <Gross_national_income_per_capita>66,933</Gross_national_income_per_capita>
+            <GNI_per_capita_rank_minus_HDI_rank>5</GNI_per_capita_rank_minus_HDI_rank>
+        </Economy>  
+    </Countries>  
+</HumanDevelopmentIndexAndComponents>

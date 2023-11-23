@@ -1,0 +1,32 @@
+<countries_of_the_world>
+    <Countries>
+        <Country></Country>
+        <Geography>
+            <Region></Region>
+            <Area></Area>
+            <Coastline></Coastline>
+        </Geography>
+        <Economy>
+            <GDP></GDP>
+            <Crops></Crops>
+            <Agricultural></Agricultural>
+            <Industry></Industry>
+            <Arable></Arable>
+        </Economy>
+        <Demography>
+            <Population></Population>
+            <Population-Density></Population-Density>
+            <Deathrate></Deathrate>
+            <Birthrate></Birthrate>
+            <Infant-Mortality></Infant-Mortality>
+            <Net-Migration></Net-Migration>
+            <Literacy></Literacy>
+        </Demography>
+        <Others>
+            <Phones></Phones>
+            <Climate></Climate>
+            <Service></Service>
+            <other></other>
+        </Others>
+    </Countries>
+</countries_of_the_world>

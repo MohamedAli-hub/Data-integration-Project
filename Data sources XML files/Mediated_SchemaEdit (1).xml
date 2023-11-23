@@ -1,0 +1,42 @@
+<Mediated_Schema>
+    <Countries>
+        <Country></Country>
+        <Geography>
+            <region></region>
+            <coastline></coastline>
+            <surfacearea></surfacearea>
+        </Geography>
+
+        <Demography>
+            <population></population>
+            <population_density></population_density>
+            <population_in_thousands></population_in_thousands>
+            <netmigration></netmigration>
+            <infant_mortality></infant_mortality>
+        </Demography>
+
+        <economy>
+            <economy></economy>
+            <gross_national_income></gross_national_income>
+
+        </economy>
+
+        <social>
+            <life_expectancy></life_expectancy>
+        </social>
+
+        <HDI>
+            <human_Development_index></human_Development_index>
+            <HDI_rank></HDI_rank>
+            <human_Development_category></human_Development_category>
+        </HDI>
+
+        <education>
+            <literacy></literacy>
+
+        </education>
+
+    </Countries>
+
+
+</Mediated_Schema>
